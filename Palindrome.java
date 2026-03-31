@@ -3,7 +3,7 @@
 public class Palindrome {
     public static void main(String[] args){
         Palindrome palindrome = new Palindrome();
-        System.out.println(palindrome.isPalindrome(122));
+        System.out.println(palindrome.isPalindrome(121));
     }
 
             public boolean isPalindrome(int x) {
